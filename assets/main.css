@@ -1,0 +1,115 @@
+
+#home {
+    margin-top: 5%;
+    background-color: whitesmoke;
+}
+
+#home img {
+    opacity: 0.1;
+    width: 100%;
+    
+}
+
+#home div {
+    position: relative;
+}
+
+#home div h2 {
+    position: absolute;
+    margin-top: -45%;
+}
+
+#home div p {
+    position: absolute;
+    margin-top: -40%;
+    font-size: 19px;
+}
+
+#home div a {
+    position: absolute;
+    margin-top: -35%;
+    border: 1px solid rgb(36, 113, 163);
+    border-radius: 30px;
+    width: 140px;
+    height: 35px;
+    color: white;
+    background-color: rgb(36, 113, 163);
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+/*--------theory-----*/
+
+
+#theory .container h2 {
+    text-shadow: rgba(36, 113, 163, 0.5) 2px 5px;
+    margin-top: 5%;
+}
+
+#theory .container ul {
+    margin-top: 25%;
+}
+.navbar .container-fluid {
+    background-color:white;
+    position: fixed;
+    opacity: 1;
+}
+
+.navbar .container-fluid {
+    height: 140px;
+    padding-top: 5%;
+}
+
+.navbar-brand img {
+    padding-top: 0;
+    width: 140px;
+    height: 71px;
+}
+
+/*-----tasks----*/
+#tasks {
+    background-color: whitesmoke;
+}
+
+#tasks .container h2 {
+    text-shadow: rgba(36, 113, 163, 0.5) 2px 5px;
+    padding-top: 2%;
+}
+
+
+
+#tasks .container-fluid .row img {
+    width: 500px;
+}
+
+#tasks .row .col-5 {
+    margin-top: 2%;
+    border: 1px solid white;
+    height: 350px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5)
+}
+
+#tasks a {
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 2%;
+    background-color: rgb(36, 113, 163);
+    color: white;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    width: 130px;
+    height: 28px;
+    border-radius: 30px;
+    text-decoration: none;
+}
+
+/*----video----*/
+#video {
+    margin-top: 5%;
+}
+
+#video h2 {
+    text-shadow: rgba(36, 113, 163, 0.5) 2px 5px;
+}
