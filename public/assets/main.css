@@ -1,8 +1,10 @@
 
 #home {
+    position: relative;
     margin-top: 5%;
     background-color: whitesmoke;
 }
+
 
 #home img {
     opacity: 0.1;
@@ -10,7 +12,7 @@
 }
 
 #home div {
-    position: relative;
+    margin-top: 10%;
 }
 
 #home div h2 {
@@ -77,8 +79,6 @@
     padding-top: 2%;
 }
 
-
-
 #tasks .container-fluid .row img {
     width: 500px;
 }
@@ -92,8 +92,8 @@
 
 #tasks a {
     position: absolute;
-    margin-left: 10%;
-    margin-top: 2%;
+    margin-left: 25%;
+    margin-top: 0;
     background-color: rgb(36, 113, 163);
     color: white;
     font-size: 20px;
@@ -176,3 +176,5 @@ hr {
 #form form {
     padding-top: 10%;
 }
+
+
