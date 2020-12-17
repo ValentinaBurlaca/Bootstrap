@@ -70,6 +70,7 @@
 /*-----tasks----*/
 #tasks {
     background-color: whitesmoke;
+    height: 500px;
 }
 
 #tasks .container h2 {
@@ -113,3 +114,45 @@
 #video h2 {
     text-shadow: rgba(36, 113, 163, 0.5) 2px 5px;
 }
+
+#video .row {
+    height: 550px;
+}
+
+#video .row .col-6 {
+    background-color: #263640;
+    height: 250px;
+    margin-top: 5%;
+    color: white;
+}
+
+#video .row .col-6 h3 {
+    margin-top: 4%;
+}
+
+#video .row .col-6 p {
+    margin-top: 5%;
+}
+
+#video .row .col-6 a {
+    position: absolute;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    width: 120px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+hr {
+    width: 400px;
+}
+
+#video video {
+    width: 500px;
+    height: 300px;
+    margin-top: 45%;
+    margin-left: -30%;
+}
+
