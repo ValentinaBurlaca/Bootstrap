@@ -156,3 +156,23 @@ hr {
     margin-left: -30%;
 }
 
+/*-----contacts----*/
+#contacts {
+    background-color: whitesmoke;
+    margin-top: 5%;
+    height: 660px;
+}
+
+#contacts h3 {
+    margin-top: 2%;
+}
+
+#contacts h2{
+    text-shadow: rgba(36, 113, 163, 0.5) 2px 5px;
+    padding-top: 2%;
+}
+
+/*---form---*/
+#form form {
+    padding-top: 10%;
+}
