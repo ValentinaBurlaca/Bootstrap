@@ -7,7 +7,6 @@
 #home img {
     opacity: 0.1;
     width: 100%;
-    
 }
 
 #home div {
@@ -158,6 +157,7 @@ hr {
 
 /*-----contacts----*/
 #contacts {
+    position: relative;
     background-color: whitesmoke;
     margin-top: 5%;
     height: 660px;
